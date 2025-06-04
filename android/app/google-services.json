@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "458440669571",
+    "project_id": "myadviser-c3a63",
+    "storage_bucket": "myadviser-c3a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458440669571:android:03d1fffce9b8ffad339eb6",
+        "android_client_info": {
+          "package_name": "com.example.my_adviser_client_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUgMB4UhWtLhF3yQ1heLkPdfSiMwOiRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458440669571-iastr90ac3lkqnioad61u1ae8eqgfc74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.myadviserapp.myAdviserFa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458440669571:android:a032c34374f8181f339eb6",
+        "android_client_info": {
+          "package_name": "com.myadviserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUgMB4UhWtLhF3yQ1heLkPdfSiMwOiRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458440669571-iastr90ac3lkqnioad61u1ae8eqgfc74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.myadviserapp.myAdviserFa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458440669571:android:fab759b5ba036ff1339eb6",
+        "android_client_info": {
+          "package_name": "za.co.myadviserapp.app.my_adviser_app_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUgMB4UhWtLhF3yQ1heLkPdfSiMwOiRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458440669571-iastr90ac3lkqnioad61u1ae8eqgfc74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.myadviserapp.myAdviserFa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458440669571:android:40f5b2b14454cb65339eb6",
+        "android_client_info": {
+          "package_name": "za.co.myadviserapp.my_adviser_fa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUgMB4UhWtLhF3yQ1heLkPdfSiMwOiRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458440669571-1edrcj8fotc53o5su63bcurm8oem8ro9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458440669571-iastr90ac3lkqnioad61u1ae8eqgfc74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.myadviserapp.myAdviserFa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

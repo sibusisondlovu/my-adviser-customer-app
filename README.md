@@ -1,6 +1,6 @@
-# 📱 MyAdvisr Customer App – README
+# 📱 My Adviser Customer App – README
 
-**MyAdvisr** is an intelligent platform that connects clients with certified professionals across financial, legal, and other advisory services. This Flutter app is the **Customer-Facing Interface**, providing onboarding, financial wellness tracking, AI support, and access to expert advisers.
+**My Adviser** is an intelligent platform that connects clients with certified professionals across financial, legal, and other advisory services. This Flutter app is the **Customer-Facing Interface**, providing onboarding, financial wellness tracking, AI support, and access to expert advisers.
 
 ---
 

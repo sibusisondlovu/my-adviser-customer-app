@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'splash_screen.dart';
 
 void main() {
-  runApp(MyAdvisrApp());
+  runApp(MyAdviserApp());
 }
 
-class MyAdvisrApp extends StatelessWidget {
-  const MyAdvisrApp({super.key});
+class MyAdviserApp extends StatelessWidget {
+  const MyAdviserApp({super.key});
 
   @override
   Widget build(BuildContext context) {
